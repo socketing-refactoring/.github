@@ -6,7 +6,7 @@ SW 사관학교 정글에서 진행한 팀 프로젝트 Socketing을 Next.js + S
 ![아키텍처](https://github.com/user-attachments/assets/59c010ec-dad5-42b7-aa50-eeba8f763aee)
 
 ### API 문서
-- Swagger [https://api.socketing.jeein.xyz/api/docs](https://api.socketing.jeein.xyz/api/docs)
+- Swagger [https://api.socketing.jeein.xyz/api/docs](https://api.socketing.jeein.xyz/api/docs) (백엔드 서버 운영 중단)
 
 ### 리팩토링 일지
 [https://socketing-refactoring.github.io/](https://socketing-refactoring.github.io/)
